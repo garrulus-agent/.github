@@ -12,7 +12,7 @@
   <a href="https://huggingface.co/emrahdundar/Garrulus-Agent"><img src="https://img.shields.io/badge/Hugging%20Face-Garrulus--Agent-FFD21E" alt="Hugging Face"></a>
 </p>
 
-Garrulus-Agent is an AI agent for cybersecurity knowledge that checks its answers against trusted sources. It is an independent project, built by Emrah Dündar on his own initiative.
+Garrulus-Agent is an AI agent for cybersecurity knowledge that checks its answers against trusted sources. It is an independent project, built by [Emrah Dündar](https://www.linkedin.com/in/emrahdundar/) on his own initiative.
 
 ## CS-Eval result
 
