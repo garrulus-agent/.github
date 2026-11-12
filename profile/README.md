@@ -12,7 +12,7 @@
   <a href="https://huggingface.co/emrahdundar/Garrulus-Agent"><img src="https://img.shields.io/badge/Hugging%20Face-Garrulus--Agent-FFD21E" alt="Hugging Face"></a>
 </p>
 
-Garrulus-Agent is an AI agent for cybersecurity knowledge that checks its answers against trusted sources. It is an independent project, built by [Emrah Dündar](https://www.linkedin.com/in/emrahdundar/) on his own initiative.
+Garrulus-Agent is an AI agent for cybersecurity knowledge that checks its answers against trusted sources. It is an independent project, built by Emrah Dündar on his own initiative.
 
 ## CS-Eval result
 
@@ -61,7 +61,6 @@ Open to conversations on AI strategy, applied AI and cybersecurity leadership. *
 
 ## Links
 
-- LinkedIn (Emrah Dündar): https://www.linkedin.com/in/emrahdundar/
 - Results and evidence: https://garrulus.com.tr
 - Official leaderboard: https://cs-eval.com/#/app/leaderBoard
 - Hugging Face: https://huggingface.co/emrahdundar/Garrulus-Agent
@@ -73,6 +72,6 @@ The model and its code are not publicly released at this time.
 
 ---
 
-**Türkçe:** Garrulus-Agent, cevaplarını güvenilir kaynaklarla kontrol eden bir siber güvenlik yapay zekâ ajanıdır. CS-Eval genel sıralamasında 99,38 puanla birinci, altı kategoride 100 tam puan alan ve genel puanda 99 eşiğini geçen ilk model. Sonuçlar ve kanıt: https://garrulus.com.tr · Emrah Dündar: https://www.linkedin.com/in/emrahdundar/
+**Türkçe:** Garrulus-Agent, cevaplarını güvenilir kaynaklarla kontrol eden bir siber güvenlik yapay zekâ ajanıdır. CS-Eval genel sıralamasında 99,38 puanla birinci, altı kategoride 100 tam puan alan ve genel puanda 99 eşiğini geçen ilk model. Sonuçlar ve kanıt: https://garrulus.com.tr
 
-**中文：** Garrulus-Agent 是一款网络安全知识 AI 智能体，会依据可信来源核验自己的答案。它在 CS-Eval 综合排名中以 99.38 分位列第一，是首个在 6 个类别中获得 100 满分、也是首个综合得分突破 99 的模型。结果与证据：https://garrulus.com.tr/en/ · Emrah Dündar：https://www.linkedin.com/in/emrahdundar/
+**中文：** Garrulus-Agent 是一款网络安全知识 AI 智能体，会依据可信来源核验自己的答案。它在 CS-Eval 综合排名中以 99.38 分位列第一，是首个在 6 个类别中获得 100 满分、也是首个综合得分突破 99 的模型。结果与证据：https://garrulus.com.tr/en/
